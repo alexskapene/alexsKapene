@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width ="full">
   <img height="500" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg"  />
 </div>
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am a web developer apprentice, focused on creating clean, accessible, and responsive interfaces. I enjoy transforming ideas into real and maintainable interfaces.<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 Currently I am learning and using: JavaScript, React, Bootstrap, Git, Flutter, Python# (basics)**, .<br>- ⚡ In my free time, I enjoy learning new things, reading, entertaining myself, ...</p>
+<p align="center">I am a web developer apprentice, focused on creating clean, accessible, and responsive interfaces. I enjoy transforming ideas into real and maintainable interfaces.<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 Currently I am learning and using: JavaScript, React, Bootstrap, Git, Flutter, Python# (basics)**, .<br>- ⚡ In my free time, I enjoy learning new things, reading, entertaining myself, ...</p>
 
 ###
 
