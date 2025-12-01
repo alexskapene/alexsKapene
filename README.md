@@ -1,65 +1,9 @@
-# 👋 Bonjour — Je suis Alexs Kapene
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=00FFD1&center=true&vCenter=true&width=650&lines=Développeur+Web+%7C+JavaScript+%7C+React+%7C+Flutter" />
-</p>
-
----
-
-
-## 💡 À propos de moi
-
-Développeur web passionné, j'aime créer des interfaces modernes et performantes. Je travaille actuellement sur plusieurs projets frontend et mobile.
-
-* 🌱 Technologies en cours d'apprentissage : **JavaScript, React, Flutter, NestJS, Git, GitHub Actions**.
-* 🚀 Objectif : devenir développeur polyvalent (Frontend + Mobile + CI/CD).
-* 🛠️ Toujours en amélioration continue.
-
----
-
-## ⚡ Compétences principales
-
-### 🔤 Langages
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* Dart (Flutter)
-
-### 🧩 Frameworks & Libraries
-
-* React
-* Flutter
-* NestJS
-* TailwindCSS
-* Bootstrap
-
-### 🛠️ Outils & Plateformes
-
-* Git & GitHub
-* GitHub Actions (Automatisations CI/CD)
-* GitHub Pages
-* VS Code
-
----
-
-## 🏅 Badges dynamiques
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/alexsKapene?label=Followers&style=for-the-badge" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alexsKapene&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexsKapene&theme=tokyonight" />
-</p>
-
----
-
-
-## 📬 Contact
-
-* Ouvrez une **issue** avant de proposer des modifications.
-* Suivez les standards : formatage, conventions de commits, branches claires.
-
----
-
-*Fait avec ⚡, automatisations & Dark Mode*
+# 👋 Bonjour — Je suis Alexs Kapene <p align="center"> <img src="https://i.imgur.com/Z8a7ZQv.png" alt="Header Image" width="100%" /> </p> > *README de profil GitHub — propre, compatible GitHub, dark mode, fonctionnalités optimisées* <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=00FFD1&center=true&vCenter=true&width=650&lines=Développeur+Web+%7C+JavaScript+%7C+React+%7C+Flutter" /> </p> --- ## 🌑 Mode Sombre (Dark Mode) GitHub active automatiquement le thème foncé du README si votre interface est en **Dark Mode**. Le README ci-dessous est optimisé pour bien s’afficher dans les deux thèmes. --- ## 💡 À propos de moi Développeur web passionné, j'aime créer des interfaces modernes et performantes. Je travaille actuellement sur plusieurs projets frontend et mobile. * 🌱 Technologies en cours d'apprentissage : **JavaScript, React, Flutter, NestJS, Git, GitHub Actions**. * 🚀 Objectif : devenir développeur polyvalent (Frontend + Mobile + CI/CD). * 🛠️ Toujours en amélioration continue. --- ## ⚡ Compétences principales ### 🔤 Langages <p align="left"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> </p> ### 🧩 Frameworks & Libraries <p align="left"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> </p> ### 🛠️ Outils & Plateformes * Git & GitHub * GitHub Actions (Automatisations CI/CD) * GitHub Pages * VS Code --- ## 🏅 Badges dynamiques <p align="left"> <img src="https://img.shields.io/github/followers/alexsKapene?label=Followers&style=for-the-badge" /> <img src="https://github-readme-stats.vercel.app/api?username=alexsKapene&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexsKapene&theme=tokyonight" /> </p> --- ## 🧩 Animations & Widgets GitHub ### ⭐ Stats globales
+md
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=alexsKapene&show_icons=true&theme=tokyonight)
+### 📊 Langages les plus utilisés
+md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsKapene&layout=compact&theme=tokyonight)
+### 🔁 Activité récente (automatisable)
+md
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alexsKapene&theme=tokyonight)
