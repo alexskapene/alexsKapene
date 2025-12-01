@@ -1,28 +1,178 @@
-<h1 align="center">Salut 👋, je suis Alexs Kapene</h1>
-<h3 align="center">Développeur front-end passionné</h3>
+# 👋 Bonjour — Je suis Alexs Kapene
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alxs-kapene&label=Profile%20views&color=0e75b6&style=flat" alt="alxs-kapene" /> </p>
+> *README de profil GitHub — propre, compatible GitHub, dark mode, fonctionnalités optimisées*
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://alexs-kapene.github.io/portfolio-Alexs-Kapene/](https://alexs-kapene.github.io/portfolio-Alexs-Kapene/)
-
-- 📫 Comment me contacter : **alexskapene2003@gmail.com**
-
-<h3 align="left">Contactez-moi :</h3>
-<p align="left">
-<a href="https://dev.to/alexs kapene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alexs kapene" height="30" width="40" /></a>
-<a href="https://twitter.com/alexs kapene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexs kapene" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexs kapene" <a href="https://fb.com/alexs kapene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexs kapene" height="30" width="40" /></a>
-<a href="https://instagram.com/alexs kapene" target="blank">
-<img align="center" <a href="https://dribbble.com/alexs kapene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt
-="alexs kapene" height="30" width="40" /></a>
-<a href="https://www.behance.net/alexs kapene" target="blank"><img align="center" src="https:
-<a href="https://www.youtube.com/c/alexs kapene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexs kapene" height="30" width="40" /></a>
-<a href="https://discord.gg/alexs kapene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alexs kapene" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=00FFD1&center=true&vCenter=true&width=650&lines=Développeur+Web+%7C+JavaScript+%7C+React+%7C+Flutter" />
 </p>
 
-<h3 align="left">Langages et outils :</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alxs-kapene&show_icons=true&locale=en&layout=compact" alt="alxs-kapene" /></p>
+## 🌑 Mode Sombre (Dark Mode)
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alxs-kapene&show_icons=true&locale=en" alt="alxs-kapene" /></p>
+GitHub active automatiquement le thème foncé du README si votre interface est en **Dark Mode**. Le README ci-dessous est optimisé pour bien s’afficher dans les deux thèmes.
+
+---
+
+## 💡 À propos de moi
+
+Développeur web passionné, j'aime créer des interfaces modernes et performantes. Je travaille actuellement sur plusieurs projets frontend et mobile.
+
+* 🌱 Technologies en cours d'apprentissage : **JavaScript, React, Flutter, NestJS, Git, GitHub Actions**.
+* 🚀 Objectif : devenir développeur polyvalent (Frontend + Mobile + CI/CD).
+* 🛠️ Toujours en amélioration continue.
+
+---
+
+## ⚡ Compétences principales
+
+### 🔤 Langages
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* Dart (Flutter)
+
+### 🧩 Frameworks & Libraries
+
+* React
+* Flutter
+* NestJS
+* TailwindCSS
+* Bootstrap
+
+### 🛠️ Outils & Plateformes
+
+* Git & GitHub
+* GitHub Actions (Automatisations CI/CD)
+* GitHub Pages
+* VS Code
+
+---
+
+## 🏅 Badges dynamiques
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/alexsKapene?label=Followers&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexsKapene&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexsKapene&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Animations & Widgets GitHub
+
+### ⭐ Stats globales
+
+```md
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=alexsKapene&show_icons=true&theme=tokyonight)
+```
+
+### 📊 Langages les plus utilisés
+
+```md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsKapene&layout=compact&theme=tokyonight)
+```
+
+### 🔁 Activité récente (automatisable)
+
+```md
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alexsKapene&theme=tokyonight)
+```
+
+---
+
+## 🤖 Automatisations recommandées (GitHub Actions)
+
+### CI standard pour React / Node
+
+```yaml
+name: CI
+on:
+  push:
+    branches: [ main, dev ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+      - run: npm ci
+      - run: npm run build --if-present
+      - run: npm test --if-present
+```
+
+### Déploiement GitHub Pages
+
+```yaml
+name: Deploy
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+      - run: npm ci
+      - run: npm run build
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+```
+
+### Mise à jour automatique du README
+
+```yaml
+name: Update README
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Auto-update
+        run: |
+          echo "Auto Update Triggered"
+      - name: Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto update README" || exit 0
+          git push
+```
+
+---
+
+## 📦 Projets recommandés à mettre en avant
+
+* **Portfolio** – HTML / CSS / JS
+* **E-commerce Demo** – React & Bootstrap
+* **Flutter App Demo** – Interface mobile
+* **API NestJS** – Backend rapide et structuré
+
+---
+
+## 📬 Contact
+
+* Ouvrez une **issue** avant de proposer des modifications.
+* Suivez les standards : formatage, conventions de commits, branches claires.
+
+---
+
+*Fait avec ⚡, automatisations & Dark Mode*
