@@ -1,7 +1,8 @@
 <div align="center">
 
 # 💫 About Me
-
+<div align="left">
+  
 💻 Frontend Web Developer passionate about modern and high-performing interfaces.
 
 🎨 Creative, curious, and detail-oriented.
@@ -13,6 +14,7 @@
 📚 Always learning new technologies.
 
 🔥 Motivated to grow and continuously improve my skills.
+</div>
 
 ## 🌐 Socials
 
